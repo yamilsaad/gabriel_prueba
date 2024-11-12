@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(33, 100, 33);
+  }
+  
+h1 {
+    color: white;
+    text-align: center;
+  }
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+nav{
+    background-color: aquamarine;
+}
